@@ -1,0 +1,14 @@
+{
+  "name": "hot-restaurant",
+  "version": "1.0.0",
+  "description": "Make table reservations",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js",
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.0.1"
+  }
+}
